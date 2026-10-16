@@ -46,7 +46,7 @@ MediConnect/
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/manikoushik001/MediConnect.git
+git clone https://github.com/jaideeptammina999-png/MediConnect
 cd MediConnect
 ```
 
